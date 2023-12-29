@@ -7,9 +7,9 @@
 4. Replace Mode - R (FROM NORMAL MODE) 
 
 ## Normal Mode Key-Bindings
-***Note:** Number can be binded with key bindings (Eg: Pressing 7 and pressing down arrows makes the cursor goes 7 lines down)
+***Note:** Number can be binded with key bindings (Eg: Pressing 7 and pressing down arrows makes the cursor goes 7 lines down)*
 
-***Note:** "." repeat the last command
+***Note:** "." repeat the last command*
 
 ### Cursor Navigation
 1. Moving Left - left arrow |  h
@@ -90,7 +90,7 @@
 - d --> Delete
 - y --> Copy | Yank
  
-#COMBINATIONS
+### COMBINATIONS
 1. dw | db --> delete word
 2. 2dw --> delete 2 words
 3. diw --> delete inner word
@@ -101,7 +101,7 @@
 8. ci" --> change inner quotation
 9. ci + "{" | "(" --> change inner
 ---
-# INTERMEIDATE
+# VIM INTERMEIDATE
 
 1. << --> indent to left
 2. >> --> indent to right
